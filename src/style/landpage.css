@@ -9,7 +9,6 @@
         font-size: 18px;
         color: var(--menu-color);
         font-weight: 400;
-        font-family: "Lato";
         margin: 0 40px 0 40px;
     }
 
@@ -65,19 +64,14 @@
         }
 
 
-    
-
-
-
 /* BOX - SEGUNDO CONTEUDO */
 .content-box{
     color: var(--second-color);
     background: #ffffff;
-    width: 50em;
     width: 55em;
     height: 15em;
     position: absolute;
-    margin: 42em 16em;
+    margin: 40em 16em;
     
 }
 
