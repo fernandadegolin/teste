@@ -1,3 +1,3 @@
 ## Teste Responsivo
 
-[💡](https://fernandadegolin.github.io/teste/)
+Conheça ➡️ [🖇️](https://fernandadegolin.github.io/teste/)
