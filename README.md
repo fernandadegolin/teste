@@ -1,3 +1,4 @@
 ## Teste Responsivo
 
-Conheça ➡️ [🖇️](https://fernandadegolin.github.io/teste/)
+Conheça:
+<br> [🖇️](https://fernandadegolin.github.io/teste/)
