@@ -1,4 +1,3 @@
 ## Teste Responsividade
 
-Conheça:
-<br> [🖇️](https://fernandadegolin.github.io/teste/)
+Clique aqui >>>> [🖇️](https://fernandadegolin.github.io/teste/)
