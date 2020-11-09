@@ -165,11 +165,11 @@ footer {
   justify-content: center !important;
 }
 
-  footer .good-luck {
-    color: var(--primary-color);
-    text-transform: uppercase;
-  }
+    footer .good-luck {
+      color: var(--primary-color);
+      text-transform: uppercase;
+    }
 
-footer .good-luck p {
-  margin: 0;
-}
+    footer .good-luck p {
+      margin: 0;
+    }
